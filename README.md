@@ -1,10 +1,13 @@
 # PDF Chatbot — RAG System
 
+
 A Retrieval-Augmented Generation (RAG) system that lets users upload PDF documents and ask natural language questions about them.
 
 ## Screenshot
 
 ![PDF Chatbot](https://github.com/dhanibaksh777-byte/PDF-Chatbot-RAG-System/blob/9de1b0fe1a8ce23128c59815aa0c3818e4bdfbe9/Screenshot%202026-09-09%20181043.png?raw=true)
+
+Live project Link:https://rag-ui-gold.vercel.app/
 
 ## How It Works
 
